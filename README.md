@@ -16,7 +16,7 @@ Monolitik mimaride başladığım araç kiralama projesinde aşağıdaki araçla
 ## _Entities Layer_
 Veritabanı nesnelerinin tutulduğu kısımdır.
 
-> Model,marka ve arbaya ait özellikleri  ve 
+> Model,marka ve arabaya ait özellikleri  ve 
 > aralarındaki ilişkileri burada tanımlarız.
 >
 
@@ -27,8 +27,8 @@ Veritabanı nesnelerinin tutulduğu kısımdır.
 - @ManyToOne ilişkisi model ve car ilişkilendirilmesinde kullanıldı 
 
 ## _DataAccess Layer_
-Veritabanı bağlantlımızı burada gerçekleştirdim.
-> JpaRepository kullandıldı
+Veritabanı bağlantımızı burada gerçekleştirdim.
+> JpaRepository kullanıldı
 
 ## _Business Layer_
 iş kodlarının yazıldığı katmandır 
