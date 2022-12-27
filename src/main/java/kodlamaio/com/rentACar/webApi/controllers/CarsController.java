@@ -1,4 +1,4 @@
-package kodlamaio.com.rentACar.webApi;
+package kodlamaio.com.rentACar.webApi.controllers;
 
 import java.util.List;
 
