@@ -2,7 +2,7 @@
 ## _Monolitik mimaride RentACar Projesi_
 
 
-Monolitik mimaride başladığım araç kiralama projesinde aşağıdki araçları ve teknolojileri kullandım.
+Monolitik mimaride başladığım araç kiralama projesinde aşağıdaki araçları ve teknolojileri kullandım.
 
 - Java Spring Boot
 - Exceptions
